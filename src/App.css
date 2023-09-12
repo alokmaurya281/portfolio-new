@@ -940,7 +940,7 @@ a{
 .mobile-nav{
   display: flex;
   flex-direction: column;
-  width: 100%;
+  width: 80%;
   /* height: 100%; */
   height: 100%;
   background-color: rgb(62, 93, 16);
