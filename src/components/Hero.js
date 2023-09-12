@@ -1,7 +1,6 @@
 import React from "react";
 import SocialLink from "./SocialLink";
 import { TypeAnimation } from 'react-type-animation';
-import { Link } from "react-router-dom";
 
 export default function Hero() {
   return (
