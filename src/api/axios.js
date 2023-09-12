@@ -4,6 +4,6 @@ export default axios.create({
     baseURL: "https://portfolio-alokm.netlify.com/Data",
     headers: {
       "Content-type": "application/json",
-      "[Access-Control-Allow-Origin]": '*'
+      "Access-Control-Allow-Origin": "*",
     }
   });
