@@ -1,0 +1,56 @@
+{
+    "data":
+        [  
+            {
+                "id":1,
+                "skillName":"HTML",
+                "logo":"assets/icons/html.png"
+                
+            },
+            {
+                "id":2,
+                "skillName":"CSS",
+                "logo":"assets/icons/css3.png"
+            },
+            {
+                "id":3,
+                "skillName":"JAVASCRIPT",
+                "logo":"assets/icons/js.png"
+            },
+            {
+                "id":4,
+                "skillName":"REACT JS",
+                "logo":"assets/icons/react.png"
+            },
+            {
+                "id":5,
+                "skillName":"FLUTTER",
+                "logo":"assets/icons/flutter.png"
+            },
+            {
+                "id":6,
+                "skillName":"LARAVEL",
+                "logo":"assets/icons/laravel.png"
+            },
+            {
+                "id":7,
+                "skillName":"PYTHON",
+                "logo":"assets/icons/python.png"
+            },
+            {
+                "id":8,
+                "skillName":"DJANGO",
+                "logo":"assets/icons/django.png"
+            },
+            {
+                "id":9,
+                "skillName":"GITHUB",
+                "logo":"assets/icons/github.png"
+            },
+            {
+                "id":10,
+                "skillName":"MYSQL",
+                "logo":"assets/icons/mysql.png"
+            }
+        ]
+}  

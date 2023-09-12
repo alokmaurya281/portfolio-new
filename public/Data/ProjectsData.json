@@ -1,0 +1,53 @@
+{
+    "data":[
+        {
+            "id":1,
+            "projectName":"E-commerce platform",
+            "description":"This is a simple E-commerce Website Platform which is created by me and I have used HTML, CSS and javascript for UI as well as javascript is used for backend and i have used simple localstorage for storing the data.",
+            "githubProjectLink":"",
+            "liveProjectLink":""
+        },
+        {
+            "id":2,
+            "projectName":"Instagram Clone UI Using Flutter",
+            "description":"This is a UI project in which I have used Flutter for android and IOS. This will contains login screen, signup screen, Reels screen and message, feed home screen wth story section.",
+            "githubProjectLink":"",
+            "liveProjectLink":""
+        },
+        {
+            "id":3,
+            "projectName":"Weather App Using Flutter",
+            "description":"Created a fully dynamic weather app with the realtime data showing for particular location using openweather api and flutter.",
+            "githubProjectLink":"",
+            "liveProjectLink":""
+        },
+        {
+            "id":4,
+            "projectName":"Shopping App Using Flutter",
+            "description":"Simple shopping app using Flutter and Add to cart, product page and home page with search feature.",
+            "githubProjectLink":"",
+            "liveProjectLink":""
+        },
+        {
+            "id":5,
+            "projectName":"E-Learning API",
+            "description":"I have created API for Elearning platform using laravel. I have enough knowledge of PHP and Laravel. There are all the features are available in this API which need in E Learning Like Udemy.",
+            "githubProjectLink":"https://github.com/alokmaurya281/wq-api",
+            "liveProjectLink":"https://github.com/alokmaurya281/wq-api"
+        },
+        {
+            "id":6,
+            "projectName":"Google UI Clone",
+            "description":"Simple Google UI Clone for Homepage using HTML , CSS only You all can view on my github account for more projects.",
+            "githubProjectLink":"",
+            "liveProjectLink":""
+        },
+        {
+            "id":7,
+            "projectName":"Calculator Using Javascript",
+            "description":"Simple Calculator using HTML , CSS , JS only All the operation can be performed. This is fully responsive js calculator.",
+            "githubProjectLink":"",
+            "liveProjectLink":""
+        }
+    ]
+}

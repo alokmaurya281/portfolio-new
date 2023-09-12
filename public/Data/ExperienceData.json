@@ -1,0 +1,13 @@
+{
+    "data":[
+        {
+            "id":1,
+            "compName":"W3villa Technologies",
+            "from":"July 2023",
+            "role":"Software Developer",
+            "to":"Present",
+            "description":"W3villa Technologies is a software development company with a special focus on start-up and growth companies. Currently I'm Working here as Sofware developer. Here I have gained experience in Frontend Developmet and backend development.",
+            "compLogo":"assets/icons/w3villa.png"
+        }
+    ]
+}

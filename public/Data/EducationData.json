@@ -1,0 +1,32 @@
+{
+    "data":
+        [  
+            {
+                "id":1,
+                "collegeName":"Rama University",
+                "logo":"assets/icons/rama.jpeg",
+                "specialization":"B.Tech (CSE)",
+                "from":"August 2019",
+                "to":"June 2023",
+                "extraActivity":"Participated in Science day Competition"
+            },
+            {
+                "id":2,
+                "collegeName":"Govt. Inter College (UP Board)",
+                "logo":"assets/icons/upboard.png",
+                "specialization":"Intermediate in PCM",
+                "from":"April 2017",
+                "to":"April 2019",
+                "extraActivity":"Ranked top 3 in the College"
+            },
+            {
+                "id":3,
+                "collegeName":"Children Public School (CBSE)",
+                "logo":"assets/icons/cbse.png",
+                "specialization":"HighSchool",
+                "from":"April 2015",
+                "to":"April 2017",
+                "extraActivity":""
+            }
+        ]
+}  
