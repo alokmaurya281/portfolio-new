@@ -905,8 +905,8 @@ a{
   font-size: 18px;
   z-index: 2;
   position: fixed;
-  bottom: 40px;
-  right: 40px;
+  bottom: 20px;
+  right: 0px;
 
 }
 .bar-btn{
@@ -948,7 +948,7 @@ a{
   left: 0;
   top: 0;
   transition: 1s;
-  z-index: 2;
+  z-index: 3;
   
     /* transform: translate(-500px); */
 }
