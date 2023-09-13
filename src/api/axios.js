@@ -5,6 +5,7 @@ export default axios.create({
     headers: {
       "Content-type": "application/json",
       "Access-Control-Allow-Origin": "https://portfolio-alokm.netlify.com",
+      'Origin': 'https://portfolio-alokm.netlify.com'
     },
    
   });
