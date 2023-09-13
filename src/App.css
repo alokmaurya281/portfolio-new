@@ -936,6 +936,15 @@ a{
 .w-50{
   width: 50%;
 }
+@keyframes animationnav {
+  0%{
+    transform: translate(-500px);
+  }
+  100%{
+    transform: translate(0);
+  }
+    
+  }
 
 .mobile-nav{
   display: flex;
@@ -947,15 +956,18 @@ a{
   position: fixed;
   left: 0;
   top: 0;
-  transition: 1s;
+  transition: .5s ease-in-out;
   z-index: 3;
-  
     /* transform: translate(-500px); */
+    animation: .5s 1  ease-in-out animationnav;
 }
+
 .close-btn{
   display: flex;
   justify-content: flex-end;
   margin: 20px;
+  transition: .5s;
+
 }
 .mobile-menu{
   margin-top: 0;
