@@ -207,9 +207,7 @@
     width: 47%!important;
     margin-right: 15px!important;
   }
-  .comp-logo{
-    /* left: 30%!important; */
-  }
+ 
   .certificate-card{
     width: 42%!important;
     margin-right: 15px!important;
@@ -284,9 +282,7 @@
     width: 47%!important;
     margin-right: 15px!important;
   }
-  .comp-logo{
-    /* left: 25%!important; */
-  }
+ 
   .certificate-card{
     width: 42%!important;
     margin-right: 15px!important;
@@ -373,9 +369,7 @@
     width: 300px !important;
     height: 300px !important;
   }
-  .comp-logo{
-    /* left: 30% !important; */
-  }
+  
   .experience-cards{
     flex-wrap: nowrap !important;
   }
@@ -396,9 +390,7 @@
     width: 320px !important;
     height: 320px !important;
   }
-  .comp-logo{
-    /* left: 30% !important; */
-  }
+
   .experience-cards{
     flex-wrap: nowrap !important;
   }
