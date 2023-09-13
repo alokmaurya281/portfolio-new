@@ -4,29 +4,29 @@
             "id":1,
             "projectName":"E-commerce platform",
             "description":"This is a simple E-commerce Website Platform which is created by me and I have used HTML, CSS and javascript for UI as well as javascript is used for backend and i have used simple localstorage for storing the data.",
-            "githubProjectLink":"",
-            "liveProjectLink":""
+            "githubProjectLink":"https://github.com/w3villa-alokmaurya/e-commerce-project",
+            "liveProjectLink":"https://w3villa-alokmaurya.github.io/e-commerce-project/"
         },
         {
             "id":2,
             "projectName":"Instagram Clone UI Using Flutter",
             "description":"This is a UI project in which I have used Flutter for android and IOS. This will contains login screen, signup screen, Reels screen and message, feed home screen wth story section.",
-            "githubProjectLink":"",
-            "liveProjectLink":""
+            "githubProjectLink":"https://github.com/w3villa-alokmaurya/instagram_clone",
+            "liveProjectLink":"https://github.com/w3villa-alokmaurya/instagram_clone"
         },
         {
             "id":3,
             "projectName":"Weather App Using Flutter",
             "description":"Created a fully dynamic weather app with the realtime data showing for particular location using openweather api and flutter.",
-            "githubProjectLink":"",
-            "liveProjectLink":""
+            "githubProjectLink":"https://github.com/w3villa-alokmaurya/weather_app_flutter",
+            "liveProjectLink":"https://github.com/w3villa-alokmaurya/weather_app_flutter"
         },
         {
             "id":4,
             "projectName":"Shopping App Using Flutter",
             "description":"Simple shopping app using Flutter and Add to cart, product page and home page with search feature.",
-            "githubProjectLink":"",
-            "liveProjectLink":""
+            "githubProjectLink":"https://github.com/w3villa-alokmaurya/shopping_flutter",
+            "liveProjectLink":"https://github.com/w3villa-alokmaurya/shopping_flutter"
         },
         {
             "id":5,
@@ -39,15 +39,15 @@
             "id":6,
             "projectName":"Google UI Clone",
             "description":"Simple Google UI Clone for Homepage using HTML , CSS only You all can view on my github account for more projects.",
-            "githubProjectLink":"",
-            "liveProjectLink":""
+            "githubProjectLink":"https://github.com/w3villa-alokmaurya/google-clone",
+            "liveProjectLink":"https://github.com/w3villa-alokmaurya/google-clone"
         },
         {
             "id":7,
             "projectName":"Calculator Using Javascript",
             "description":"Simple Calculator using HTML , CSS , JS only All the operation can be performed. This is fully responsive js calculator.",
-            "githubProjectLink":"",
-            "liveProjectLink":""
+            "githubProjectLink":"https://github.com/w3villa-alokmaurya/calculator",
+            "liveProjectLink":"https://w3villa-alokmaurya.github.io/calculator/"
         }
     ]
 }
