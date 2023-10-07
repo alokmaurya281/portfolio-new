@@ -4,7 +4,7 @@ export default function ReachOutMe() {
   return (
     <div id="contact" className="container reach-out">
       <div className="contact-left">
-            <h1 className="white-color">React Out to me!</h1>
+            <h1 className="white-color">Reach Out to me!</h1>
             <p className="para-color uppercase">
             You want to have some discussion with me or want any help or to
             discuss any project just reach out to me.
