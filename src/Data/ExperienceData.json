@@ -1,13 +1,22 @@
 {
-    "data":[
+    "data": [
         {
-            "id":1,
-            "compName":"W3villa Technologies",
-            "from":"July 2023",
-            "role":"Software Developer",
-            "to":"Present",
-            "description":"W3villa Technologies is a software development company with a special focus on start-up and growth companies. Currently I'm Working here as Sofware developer. Here I have gained experience in Frontend Developmet and backend development.",
-            "compLogo":"assets/icons/w3villa.png"
+            "id": 1,
+            "compName": "uCertify Pvt. Ltd.",
+            "from": "Aug 2025",
+            "role": "Senior Flutter Developer",
+            "to": "Present",
+            "description": "Contributing to the development of uCertify Learn, an EdTech mobile app with 15K+ users. Building scalable Android and iOS apps using Flutter and Dart, integrating REST APIs, Firebase services, and ensuring a smooth, responsive user experience.",
+            "compLogo": "assets/icons/ucertify.jpeg"
+        },
+        {
+            "id": 2,
+            "compName": "W3villa Technologies Pvt. Ltd.",
+            "from": "July 2023",
+            "role": "Flutter Developer",
+            "to": "July 2025",
+            "description": "Developed and maintained cross-platform mobile applications using Flutter for Android and iOS. Worked on Kivo.ai, an HRMS product with 1K+ users, optimizing performance by 40%, integrating REST APIs, and Firebase services.",
+            "compLogo": "assets/icons/w3villa.png"
         }
     ]
 }
