@@ -35,7 +35,7 @@ export default function Projects() {
           />
         ))}
 
-        {data['data'].length > 6 ? (
+        {data['data'].length > 12 ? (
           <a
             href="https://github.com/alokmaurya281"
             rel="noreferrer"
