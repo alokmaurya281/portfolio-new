@@ -25,7 +25,7 @@ export default function Projects() {
     <div id="projects" className="container projects-section">
       <h1 className="white-color">Projects</h1>
       <div className="project-cards">
-        {data['data'].slice(0, 6).map((item) => (
+        {data['data'].slice(0, 12).map((item) => (
           <SingleProjectsCard
             key={item.id}
             projectName={item.projectName}
